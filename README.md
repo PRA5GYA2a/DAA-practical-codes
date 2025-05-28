@@ -6,6 +6,19 @@ Welcome to the **AI Course Project** repository! This project was developed as p
 
 ## 📘 Project Overview
 
+### 📝 Summary
+
+In this project, we developed a machine learning pipeline that includes data preprocessing, feature engineering, model training, and evaluation. We used Python and libraries such as Scikit-learn, Pandas, and Matplotlib to build a [classification/regression/clustering] model. The dataset used was [Dataset Name], which contains [brief description of data]. 
+
+Our goals were to:
+- Understand and explore the dataset
+- Apply appropriate preprocessing techniques
+- Train multiple ML models and compare performance
+- Evaluate the final model using accuracy, precision, recall, and F1-score
+- Optionally deploy the model using Streamlit for interactive predictions
+
+This project demonstrates the full lifecycle of an AI solution, from raw data to insights and deployment.
+
 This project focuses on **building and evaluating an AI model to solve a real-world problem using machine learning techniques**.
 
 ### 📝 Summary
